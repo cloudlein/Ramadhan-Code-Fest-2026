@@ -64,3 +64,36 @@
 [submodule "imalrightjack-bot"]
 	path = imalrightjack-bot
 	url = https://github.com/bbeetlesam/imalrightjack-bot
+[submodule "scrape-result-reader-mobile-app"]
+	path = scrape-result-reader-mobile-app
+	url = https://github.com/RizqullahY/scrape-result-reader-mobile-app
+[submodule "bot-nganggur"]
+	path = bot-nganggur
+	url = https://github.com/fdvky1/bot-nganggur.git
+[submodule "MamboSU"]
+	path = MamboSU
+	url = https://github.com/RapliVx/KernelSU.git
+[submodule "auriya"]
+	path = auriya
+	url = https://github.com/pavelc4/auriya.git
+[submodule "Rin"]
+	path = Rin
+	url = https://github.com/pavelc4/Rin.git
+[submodule "pixtify"]
+	path = pixtify
+	url = https://github.com/pavelc4/pixtify.git
+[submodule "aether-tg-bot"]
+	path = aether-tg-bot
+	url = https://github.com/pavelc4/aether-tg-bot.git
+[submodule "yume-go"]
+	path = yume-go
+	url = https://github.com/pavelc4/yume-go.git
+[submodule "website-builder"]
+	path = website-builder
+	url = https://github.com/zidniahmeed/website-builder.git
+[submodule "floodzy"]
+	path = floodzy
+	url = https://github.com/MattYudha/floodzy.git
+[submodule "yet-another-slighty-cooler-to-do-list-app"]
+	path = yet-another-slighty-cooler-to-do-list-app
+	url = https://github.com/x1nx3r/yet-another-slightly-cooler-to-do-app-you-migh-not-use-anyway.git
